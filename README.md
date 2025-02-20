@@ -1,5 +1,7 @@
 # What drives the price of a car?
 
+Link to Notebook: https://github.com/kkharel/PriceofaCar/blob/main/notebook.ipynb
+
 ## Objective:
 
 The goal of this analysis is to identify and evaluate the most important features that influence the pricing of used cars, utilizing three machine learning models: Random Forest, Gradient Boosting, and XGBoost. This report summarizes the feature importances obtained from these models and provides insights into their relevance for predicting used car prices. The findings are intended to help in refining the predictive model for better business decision-making and price predictions.
